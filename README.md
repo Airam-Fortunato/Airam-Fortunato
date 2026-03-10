@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Airam 👋
 
-<!--
-**Airam-Fortunato/Airam-Fortunato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Financial Engineering student at INTEC interested in **Data Science, data analysis, and quantitative finance**.
 
-Here are some ideas to get you started:
+## Skills in development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- C++
+- Data Analysis
+- Data Science
+- Statistical Methods
+- Quantitative Finance
+
+## Interests
+
+I enjoy working on projects involving financial data, simulations, quantitative modeling, and data science applications.
+
+## Projects
+- SQL data analysis exercises
+- Python financial data analysis
+- Monte Carlo simulations for finance
