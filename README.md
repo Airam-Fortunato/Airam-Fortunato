@@ -2,25 +2,13 @@
 
 Financial Engineering student at INTEC interested in Data Science, Quantitative Finance, and financial modeling.
 
-## Skills in development
+## Projects (in progress)
 
-- Python
-- SQL
-- C++
-- Pandas
-- NumPy
-- Data Analysis
-- Statistical Methods
-- Machine Learning (basic)
-- Quantitative Finance (basic)
-
-## Quantitative interests
-
+- SQL Data Analysis
+- Python Financial Analysis
 - Monte Carlo Simulation
-- Portfolio Optimization
-- Financial Data Analysis
-- Risk Modeling
-- Stck Market Dashboard
+- Stock Market Dashboard
+- Financial Time Series Analysis
 
 I enjoy working on projects involving financial data, simulations, and quantitative modeling.
 
