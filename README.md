@@ -1,23 +1,27 @@
 # Hi, I'm Airam 👋
 
-Financial Engineering student at INTEC interested in **Data Science, data analysis, and quantitative finance**.
+Financial Engineering student at INTEC interested in Data Science, Quantitative Finance, and financial modeling.
 
 ## Skills in development
 
 - Python
 - SQL
 - C++
+- Pandas
+- NumPy
 - Data Analysis
-- Data Science
 - Statistical Methods
-- Quantitative Finance
+- Machine Learning (basic)
+- Quantitative Finance (basic)
 
-## Interests
+## Quantitative interests
 
-I enjoy working on projects involving financial data, simulations, quantitative modeling, and data science applications.
+- Monte Carlo Simulation
+- Portfolio Optimization
+- Financial Data Analysis
+- Risk Modeling
+- Stck Market Dashboard
 
-## Projects
-- SQL data analysis exercises
-- Python financial data analysis
-- Monte Carlo simulations for finance
-- Stock Market Dashboard
+I enjoy working on projects involving financial data, simulations, and quantitative modeling.
+
+More projects coming soon.
