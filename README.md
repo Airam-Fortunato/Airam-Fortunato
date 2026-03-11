@@ -20,4 +20,4 @@ I enjoy working on projects involving financial data, simulations, quantitative 
 - SQL data analysis exercises
 - Python financial data analysis
 - Monte Carlo simulations for finance
-- stock-market-dashboard
+- Stock Market Dashboard
